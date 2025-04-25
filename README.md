@@ -1,5 +1,5 @@
 
 <div>
-  <a href=></a>
-  <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" />
+  <a href="https://github.com/GunnarGomes/GunnarGomes"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
 </div>
