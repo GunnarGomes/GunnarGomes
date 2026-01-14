@@ -8,7 +8,7 @@
 
 ## 🛠️ Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://skillicons.dev/icons?i=python,flask,php,js,html,css,cpp,c,linux,mysql&size=40" />
 
 ---
 
